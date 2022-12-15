@@ -8,6 +8,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <nav>
         <RouterLink to="/">Export / Import CSV</RouterLink>
         <RouterLink to="/about">About</RouterLink>
+        <RouterLink to="/hello">Highlight</RouterLink>
       </nav>
   </header>
 

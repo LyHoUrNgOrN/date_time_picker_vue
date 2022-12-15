@@ -13,8 +13,11 @@
   "dependencies": {
     "@vuepic/vue-datepicker": "^3.6.3",
     "pinia": "^2.0.28",
+    "reload": "^3.2.0",
     "vue": "^3.2.45",
+    "vue-highlight-words": "^3.0.1",
     "vue-router": "^4.1.6",
+    "vuetify": "^2.6.13",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
